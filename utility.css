@@ -1,0 +1,28 @@
+.flex{
+    display:flex;
+}
+
+.container{
+    padding: 0 10vw;
+     padding-top: 14px;
+     font-size: bold
+
+}
+.text-align{
+    text-align: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.justify-content{
+    justify-content: center;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+ margin-top: 16px;
+    
+}
